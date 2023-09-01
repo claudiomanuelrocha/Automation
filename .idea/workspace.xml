@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3a1e48d0-1c6a-481d-88d1-5de40a379457" name="Changes" comment="test">
-      <change beforePath="$PROJECT_DIR$/Automation_Test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Automation_Test.py" afterDir="false" />
-    </list>
+    <list default="true" id="3a1e48d0-1c6a-481d-88d1-5de40a379457" name="Changes" comment="test" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
