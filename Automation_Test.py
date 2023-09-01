@@ -1,5 +1,3 @@
-import pytest
-
 # content of test_verbosity_example.py
 def test_1_ok():
     pass
@@ -15,12 +13,6 @@ def test_3_numbers_fail():
     number_to_text1 = {str(x): x for x in range(5)}
     number_to_text2 = {str(x * 10): x * 10 for x in range(5)}
     assert number_to_text1 == number_to_text2
-    jjj
-
-
-hhkkjk
-
-
 
 def test_4_long_text_fail():
     long_text = "Lorem ipsum dolor sit amet " * 10
